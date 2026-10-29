@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cliplee": {
+      "type": "http",
+      "url": "https://cliplee.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cliplee",
+  "version": "1.0.0",
+  "description": "Make AI videos with Cliplee from Claude: check your credits, price a text-to-video, create it after you confirm, and follow its progress. Sign in with your own Cliplee account.",
+  "author": {
+    "name": "Cliplee",
+    "email": "support@cliplee.com",
+    "url": "https://cliplee.com"
+  },
+  "homepage": "https://cliplee.com/integrations",
+  "license": "MIT",
+  "keywords": ["video", "ai-video", "text-to-video", "cliplee", "mcp"]
+}

@@ -8,6 +8,13 @@
     "url": "https://cliplee.com"
   },
   "homepage": "https://cliplee.com/integrations",
+  "privacyPolicyUrl": "https://cliplee.com/legal/privacy",
   "license": "MIT",
-  "keywords": ["video", "ai-video", "text-to-video", "cliplee", "mcp"]
+  "keywords": [
+    "video",
+    "ai-video",
+    "text-to-video",
+    "cliplee",
+    "mcp"
+  ]
 }

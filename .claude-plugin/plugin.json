@@ -7,7 +7,11 @@
     "email": "support@cliplee.com",
     "url": "https://cliplee.com"
   },
-  "homepage": "https://cliplee.com/integrations",
+  "homepage": "https://cliplee.com",
+  "repository": "https://github.com/sufixtechllc/cliplee-claude-plugin",
+  "documentationUrl": "https://cliplee.com/integrations",
+  "supportUrl": "https://cliplee.com/contact",
+  "termsOfServiceUrl": "https://cliplee.com/legal/terms",
   "privacyPolicyUrl": "https://cliplee.com/legal/privacy",
   "license": "MIT",
   "keywords": [
